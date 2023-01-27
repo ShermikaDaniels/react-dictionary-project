@@ -6,6 +6,15 @@ a {
   color: #9670f4;
 }
 
+footer {
+  color: white;
+}
+
+footer:hover {
+  background-color: white;
+  color: #9670f4;
+}
+
 .App {
   max-width: 960px;
   margin: 0 auto;

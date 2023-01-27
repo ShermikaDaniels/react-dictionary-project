@@ -14,8 +14,16 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Shermika Daniels with React.js and open-sourced on GitHub
-            and hosted on Netlify
+            Coded by{" "}
+            <a href="https://www.linkedin.com/in/shermika-daniels-70093b139">
+              Shermika Daniels
+            </a>{" "}
+            with React.js and{" "}
+            <a href="https://github.com/ShermikaDaniels/react-dictionary-project">
+              open-sourced on GitHub{" "}
+            </a>{" "}
+            and hosted on{" "}
+            <a href="https://zingy-sprinkles-c8286e.netlify.app/">Netlify</a>
           </small>
         </footer>
       </div>
