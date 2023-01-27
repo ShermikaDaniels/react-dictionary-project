@@ -7,11 +7,6 @@ a {
 }
 
 footer {
-  color: white;
-}
-
-footer:hover {
-  background-color: white;
   color: black;
 }
 
