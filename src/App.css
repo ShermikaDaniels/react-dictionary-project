@@ -4,10 +4,11 @@ body {
 
 a {
   color: #9670f4;
+  font-weight: bold;
 }
 
 footer {
-  color: black;
+  color: white;
 }
 
 .App {
